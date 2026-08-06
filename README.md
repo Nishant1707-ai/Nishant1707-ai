@@ -177,9 +177,8 @@
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-
+<a href="nishantgomkale85@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
-<a href="mailto:nishantgomkale85@gmail.com">
 </a>
 
 </p>
