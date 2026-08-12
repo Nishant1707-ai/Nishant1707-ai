@@ -3,7 +3,7 @@
 <h3 align="center">🚀 DevOps Engineer | ☁️ Cloud Enthusiast | 🤖 Future MLOps & AI Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=DevOps+Engineer;Cloud+Computing+Enthusiast;AWS+%7C+Docker+%7C+Kubernetes;Infrastructure+as+Code;Future+MLOps+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=DevOps+Engineer;Cloud+Computing+Enthusiast;AWS+%7C+Docker+%7C+Kubernetes;Infrastructure+as+Code" />
 </p>
 
 ---
