@@ -1,28 +1,22 @@
 <div align="center">
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Nishant
+# 👋 Hi, I'm Nishant
 
 ### ☁️ Cloud & DevOps Enthusiast | 🐧 Linux | ⚙️ Automation
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=Cloud+%26+DevOps+Enthusiast;AWS+%7C+Docker+%7C+Kubernetes;Linux+%7C+Bash+%7C+Python;CI%2FCD+%7C+Terraform+%7C+Ansible;Automate+%E2%80%A2+Deploy+%E2%80%A2+Monitor+%E2%80%A2+Improve" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=750&lines=Cloud+%26+DevOps+Enthusiast;AWS+%7C+Docker+%7C+Kubernetes;Linux+%7C+Bash+%7C+Python;CI%2FCD+%7C+Terraform+%7C+Ansible;Automate+%E2%80%A2+Deploy+%E2%80%A2+Monitor+%E2%80%A2+Improve" />
 
 <br>
 
-<a href="https://www.linkedin.com/in/nishant-gomkale-299326334">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=nishantgomkale85@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-
 <a href="https://github.com/Nishant1707-ai">
-<img src="https://img.shields.io/badge/GitHub-Nishant1707--ai-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=Nishant1707-ai&label=Profile%20Views&style=flat-square&color=58A6FF" alt="Profile Views"/>
+<a href="https://www.linkedin.com/in/nishant-gomkale-299326334">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=nishantgomkale85@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
@@ -30,19 +24,13 @@
 
 ## 👨‍💻 About Me
 
-I'm **Nishant Gomkale**, a Computer Engineering student passionate about **Cloud & DevOps**.
-
-I enjoy working with Linux, cloud infrastructure, containers, CI/CD and automation — with a focus on building practical skills through hands-on work.
-
 * 🎓 B.Tech Computer Engineering Student
-* ☁️ Cloud & DevOps focused
-* 🐧 Linux & system administration
-* 🐳 Docker & Kubernetes
-* 🔄 CI/CD & automation
-* 🏗️ Infrastructure as Code
-* 📊 Monitoring & observability
-* 🐍 Bash & practical Python
-* 🎯 Preparing for Cloud / DevOps opportunities
+* ☁️ Focused on **Cloud & DevOps Engineering**
+* 🐧 Linux enthusiast who enjoys working from the terminal
+* ⚙️ Interested in **automation, CI/CD, containers & infrastructure**
+* 🚀 Building hands-on projects with real-world cloud technologies
+* 🐍 Using **Bash & Python** for practical automation
+* 📚 Constantly learning, experimenting and improving
 
 ---
 
@@ -50,123 +38,147 @@ I enjoy working with Linux, cloud infrastructure, containers, CI/CD and automati
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=aws,linux,bash,python,git,github,githubactions,docker,kubernetes,jenkins,terraform,ansible,helm,argocd,prometheus,grafana,mysql,vscode,postman" />
+### ☁️ Cloud • DevOps • Automation
+
+<a href="https://aws.amazon.com/">
+<img src="https://skillicons.dev/icons?i=aws" width="55" title="Amazon Web Services"/>
+</a>
+<a href="https://www.linux.org/">
+<img src="https://skillicons.dev/icons?i=linux" width="55" title="Linux"/>
+</a>
+<a href="https://www.gnu.org/software/bash/">
+<img src="https://skillicons.dev/icons?i=bash" width="55" title="Bash"/>
+</a>
+<a href="https://www.python.org/">
+<img src="https://skillicons.dev/icons?i=python" width="55" title="Python"/>
+</a>
+<a href="https://git-scm.com/">
+<img src="https://skillicons.dev/icons?i=git" width="55" title="Git"/>
+</a>
+<a href="https://github.com/">
+<img src="https://skillicons.dev/icons?i=github" width="55" title="GitHub"/>
+</a>
+<a href="https://github.com/features/actions">
+<img src="https://skillicons.dev/icons?i=githubactions" width="55" title="GitHub Actions"/>
+</a>
 
 <br><br>
 
-<code>AWS</code> <code>Linux</code> <code>Bash</code> <code>Python</code> <code>Git</code> <code>GitHub</code> <code>GitHub Actions</code> <code>Docker</code> <code>Kubernetes</code> <code>Jenkins</code> <code>Terraform</code> <code>Ansible</code> <code>Helm</code> <code>Argo CD</code> <code>Prometheus</code> <code>Grafana</code> <code>MySQL</code>
+<a href="https://www.docker.com/">
+<img src="https://skillicons.dev/icons?i=docker" width="55" title="Docker"/>
+</a>
+<a href="https://kubernetes.io/">
+<img src="https://skillicons.dev/icons?i=kubernetes" width="55" title="Kubernetes"/>
+</a>
+<a href="https://www.jenkins.io/">
+<img src="https://skillicons.dev/icons?i=jenkins" width="55" title="Jenkins"/>
+</a>
+<a href="https://www.terraform.io/">
+<img src="https://skillicons.dev/icons?i=terraform" width="55" title="Terraform"/>
+</a>
+<a href="https://www.ansible.com/">
+<img src="https://skillicons.dev/icons?i=ansible" width="55" title="Ansible"/>
+</a>
+<a href="https://helm.sh/">
+<img src="https://skillicons.dev/icons?i=helm" width="55" title="Helm"/>
+</a>
+<a href="https://argo-cd.readthedocs.io/">
+<img src="https://skillicons.dev/icons?i=argocd" width="55" title="Argo CD"/>
+</a>
+
+<br><br>
+
+<a href="https://prometheus.io/">
+<img src="https://skillicons.dev/icons?i=prometheus" width="55" title="Prometheus"/>
+</a>
+<a href="https://grafana.com/">
+<img src="https://skillicons.dev/icons?i=grafana" width="55" title="Grafana"/>
+</a>
+<a href="https://www.mysql.com/">
+<img src="https://skillicons.dev/icons?i=mysql" width="55" title="MySQL"/>
+</a>
+<a href="https://code.visualstudio.com/">
+<img src="https://skillicons.dev/icons?i=vscode" width="55" title="VS Code"/>
+</a>
+<a href="https://www.postman.com/">
+<img src="https://skillicons.dev/icons?i=postman" width="55" title="Postman"/>
+</a>
+<a href="https://ubuntu.com/">
+<img src="https://skillicons.dev/icons?i=ubuntu" width="55" title="Ubuntu"/>
+</a>
 
 </div>
 
----
+<br>
 
-# 🌱 Currently Learning
-
-<div align="center">
-
-`Kubernetes` • `Terraform` • `Jenkins Pipelines` • `GitHub Actions` • `AWS` • `Python Automation` • `GitOps` • `Argo CD`
-
-</div>
+<p align="center">
+<b>Click any technology icon to explore its official website.</b>
+</p>
 
 ---
 
-# ⚡ DevOps Mindset
-
-<div align="center">
+## 🌱 Currently Learning
 
 ```text
-       CODE
-        │
-        ▼
-      BUILD
-        │
-        ▼
-     CONTAINER
-        │
-        ▼
-      DEPLOY
-        │
-        ▼
-     MONITOR
-        │
-        ▼
-     AUTOMATE
-        │
-        └──────────────► IMPROVE
+Kubernetes        ███████████████░░░  Advanced
+Terraform         █████████████░░░░░  Building
+Jenkins CI/CD     ████████████░░░░░░  Hands-on
+AWS               ███████████████░░░  Hands-on
+GitHub Actions    ███████████░░░░░░░  Learning
+Python            █████████░░░░░░░░░  Automation
 ```
 
-### Build • Automate • Deploy • Monitor • Repeat 🚀
-
-</div>
-
 ---
 
-# 🔥 GitHub Streak
+## ⚙️ DevOps Mindset
 
 <div align="center">
 
-<a href="https://github.com/Nishant1707-ai">
-
-<img src="https://streak-stats.demolab.com/?user=Nishant1707-ai&theme=github-dark-blue&hide_border=true&border_radius=10" alt="Nishant's GitHub Streak"/>
-
-</a>
+**PLAN** → **CODE** → **BUILD** → **TEST** → **DEPLOY** → **MONITOR** → **IMPROVE** 🔄
 
 </div>
 
 ---
 
-# 📈 GitHub Activity
+## 🚀 What I Like Working With
 
-<div align="center">
-
-<a href="https://github.com/Nishant1707-ai">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nishant1707-ai&theme=github-compact&hide_border=true&radius=10" alt="Nishant's GitHub Activity Graph"/>
-
-</a>
-
-</div>
-
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-<a href="https://github.com/Nishant1707-ai">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Nishant1707-ai&show_icons=true&include_all_commits=true&hide_border=true&theme=github_dark&rank_icon=github" alt="Nishant's GitHub Stats"/>
-</a>
-
-<a href="https://github.com/Nishant1707-ai">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishant1707-ai&layout=compact&langs_count=8&hide_border=true&theme=github_dark" alt="Nishant's Top Languages"/>
-</a>
-
-</div>
+<table align="center">
+<tr>
+<td align="center">☁️<br><b>Cloud</b><br>AWS</td>
+<td align="center">🐧<br><b>Systems</b><br>Linux</td>
+<td align="center">📦<br><b>Containers</b><br>Docker</td>
+<td align="center">☸️<br><b>Orchestration</b><br>Kubernetes</td>
+</tr>
+<tr>
+<td align="center">🔄<br><b>CI/CD</b><br>Jenkins</td>
+<td align="center">🏗️<br><b>IaC</b><br>Terraform</td>
+<td align="center">🤖<br><b>Automation</b><br>Ansible</td>
+<td align="center">📊<br><b>Monitoring</b><br>Prometheus</td>
+</tr>
+</table>
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/nishant-gomkale-299326334">
-<img src="https://img.shields.io/badge/LinkedIn-Nishant%20Gomkale-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://skillicons.dev/icons?i=linkedin" width="60" title="LinkedIn"/>
 </a>
 
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=nishantgomkale85@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-nishantgomkale85%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+<img src="https://skillicons.dev/icons?i=gmail" width="60" title="Gmail"/>
 </a>
 
 </div>
+
+<p align="center">
+📧 <b>nishantgomkale85@gmail.com</b>
+</p>
 
 ---
 
 <div align="center">
 
-### ☁️ Cloud. ⚙️ Automation. 🚀 DevOps.
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=gradient"/>
-
-</div>
+### 💡 Build. Automate. Deploy. Learn. Repeat
