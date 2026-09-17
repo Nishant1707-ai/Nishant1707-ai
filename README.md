@@ -1,114 +1,117 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9ff&height=220&section=header&text=Nishant%20Gomkale&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=DevOps%20Engineer%20%7C%20Automating%20Everything%2C%20One%20Pipeline%20at%20a%20Time&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=230&section=header&text=%F0%9F%91%8B%20yo%2C%20it's%20Nishant&fontSize=48&fontColor=00F0FF&animation=twinkling&fontAlignY=38&desc=Cloud%20Enthusiast%20%E2%98%81%EF%B8%8F%20%7C%20DevOps%20Engineer%20%7C%20Automates%20everything%20incl.%20his%20morning%20coffee&descAlignY=58&descSize=17&descAlign=50" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duotone=true&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&lines=%24+whoami;devops_engineer+%26%26+cloud_nerd;%24+terraform+apply+--auto-approve;%24+kubectl+get+pods+--watch;%24+echo+%22ship+it+%F0%9F%9A%80%22" alt="Typing SVG" />
+
+<br/>
 
 <a href="https://www.linkedin.com/in/nishant-gomkale-299326334/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:nishantgomkale85@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=nishantgomkale85@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://github.com/Nishant1707-ai">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+<img src="https://komarev.com/ghpvc/?username=Nishant1707-ai&style=for-the-badge&color=00F0FF&label=PROFILE+VIEWS" />
 
 </div>
 
 <br/>
 
-<h3 align="center">🚀 Deploying infrastructure, breaking pipelines (on purpose), and fixing them faster</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C9FF&center=true&vCenter=true&width=650&lines=DevOps+Engineer+%7C+Cloud+%26+Automation;CI%2FCD+%E2%80%A2+Docker+%E2%80%A2+Kubernetes+%E2%80%A2+Terraform;Building+resilient%2C+scalable+systems;Infrastructure+as+Code+%3D+Peace+of+Mind" alt="Typing SVG" />
-</p>
-
----
-
-### 👋 About Me
-
-```yaml
-name: Nishant Gomkale
-role: DevOps Engineer
-focus:
-  - CI/CD Pipeline Design & Automation
-  - Containerization & Orchestration
-  - Cloud Infrastructure (IaC)
-  - Monitoring & Reliability
-currently_exploring:
-  - GitOps workflows
-  - Kubernetes security & scaling
-fun_fact: "I automate things so I have more time to automate other things"
+```bash
+┌──(nishant㉿cloud)-[~]
+└─$ cat about_me.txt
 ```
 
-- 🔭 Currently working on strengthening CI/CD pipelines and cloud-native deployments
-- 🌱 Deepening my hands-on skills in **Kubernetes**, **Terraform**, and **AWS**
-- 🤝 Open to collaborating on DevOps tooling, automation scripts, and infra projects
-- 💬 Ask me about Docker, CI/CD, Linux, or cloud infrastructure
-- 📫 Reach me at **nishantgomkale85@gmail.com**
+> ☁️ Living somewhere between `us-east-1` and `production`.
+> I build pipelines that don't break (mostly), spin up infra that scales, and ship things faster than my coffee gets cold.
+> If it can be containerized, orchestrated, or automated — I've probably already tried it at 2 AM.
 
 ---
 
-### 🛠️ Tech Stack
+### 🧠 The Stack I Vibe With
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,aws,terraform,jenkins,ansible,git,github,githubactions,bash,python,prometheus,grafana,nginx,azure" />
+  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,aws,azure,terraform,jenkins,ansible,git,github,githubactions,bash,python,prometheus,grafana,nginx&theme=dark" />
 </p>
 
 <div align="center">
 
-| Category | Tools |
+| ⚡ Category | 🔧 Arsenal |
 |---|---|
 | ☁️ **Cloud** | AWS · Azure |
 | 📦 **Containers & Orchestration** | Docker · Kubernetes |
-| 🔁 **CI/CD** | Jenkins · GitHub Actions |
-| 🧱 **Infrastructure as Code** | Terraform · Ansible |
-| 📊 **Monitoring** | Prometheus · Grafana |
-| 🐧 **OS & Scripting** | Linux · Bash · Python |
-| 🔧 **Version Control** | Git · GitHub |
-| 🌐 **Web Server** | Nginx |
+| 🔁 **CI/CD Pipelines** | Jenkins · GitHub Actions |
+| 🧱 **Infra as Code** | Terraform · Ansible |
+| 📊 **Observability** | Prometheus · Grafana |
+| 🐧 **Scripting & OS** | Linux · Bash · Python |
+| 🌐 **Serving** | Nginx |
 
 </div>
 
 ---
 
-### 📊 GitHub Analytics
+### 🎯 Currently
+
+```yaml
+status: "online, probably debugging a pipeline"
+building: "rock-solid CI/CD workflows"
+learning: ["Kubernetes at scale", "GitOps", "Cloud security"]
+collab_open_to: "DevOps tooling, automation scripts, infra-as-code projects"
+mood: "docker ps -a  # checking on old containers like old friends"
+```
+
+---
+
+### 📊 Live From My GitHub
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Nishant1707-ai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishant1707-ai&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Nishant1707-ai&show_icons=true&theme=synthwave&hide_border=true&count_private=true&bg_color=00000000" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishant1707-ai&layout=compact&theme=synthwave&hide_border=true&bg_color=00000000" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nishant1707-ai&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nishant1707-ai&theme=synthwave&hide_border=true&background=00000000" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nishant1707-ai&theme=react-dark&hide_border=true&area=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nishant1707-ai&theme=synthwave&hide_border=true&area=true&bg_color=00000000" width="100%"/>
 </div>
 
 ---
 
-### 🏆 GitHub Trophies
+### 🏆 Trophy Cabinet
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nishant1707-ai&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Nishant1707-ai&theme=algolia&no-frame=true&row=1&column=6" />
 </div>
 
 ---
 
-### 🤝 Let's Connect
+### 🐍 Contribution Snake
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/Nishant1707-ai/Nishant1707-ai/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</div>
+
+<sub align="center">↑ auto-generates once you add the <a href="https://github.com/Platane/snk">snk GitHub Action</a> to this repo — happy to set that up for you if you want.</sub>
+
+---
+
+<div align="center">
+
+### 📡 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-Nishant%20Gomkale-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nishant-gomkale-299326334/)
-[![Gmail](https://img.shields.io/badge/-nishantgomkale85%40gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:nishantgomkale85@gmail.com)
-
-</div>
+[![Gmail](https://img.shields.io/badge/-nishantgomkale85%40gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=nishantgomkale85@gmail.com)
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c9ff,50:2c5364,100:0f2027&height=120&section=footer" width="100%"/>
+*"There's no place like `127.0.0.1`"* 🛰️
 
-<div align="center">
-  <i>⭐️ Thanks for stopping by — feel free to explore my repos and reach out!</i>
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
