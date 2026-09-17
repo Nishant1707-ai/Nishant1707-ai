@@ -1,177 +1,114 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="38">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9ff&height=220&section=header&text=Nishant%20Gomkale&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=DevOps%20Engineer%20%7C%20Automating%20Everything%2C%20One%20Pipeline%20at%20a%20Time&descAlignY=55&descSize=18" width="100%"/>
 
-# Nishant Gomkale
-
-### ☁️ Cloud & DevOps Enthusiast • 🐧 Linux • ⚙️ Automation
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=760&lines=Cloud+%26+DevOps+Enthusiast;AWS+%7C+Docker+%7C+Kubernetes;CI%2FCD+%7C+Terraform+%7C+Ansible;Linux+%7C+Bash+%7C+Python;Build+%E2%80%A2+Automate+%E2%80%A2+Deploy+%E2%80%A2+Improve" alt="Typing animation"/>
-
-<br>
-
-<a href="https://www.linkedin.com/in/nishant-gomkale-299326334">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<a href="https://www.linkedin.com/in/nishant-gomkale-299326334/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-&nbsp;
 <a href="mailto:nishantgomkale85@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-&nbsp;
 <a href="https://github.com/Nishant1707-ai">
-  <img src="https://img.shields.io/badge/GitHub-Nishant1707--ai-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=Nishant1707-ai&label=Profile%20Views&style=flat-square&color=58A6FF" alt="Profile views"/>
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-I'm **Nishant Gomkale**, a Computer Engineering student focused on **Cloud & DevOps Engineering**.
-
-I enjoy working with Linux, cloud infrastructure, containers and automation — with a focus on understanding how applications are built, deployed and operated.
-
-* 🎓 B.Tech Computer Engineering Student
-* ☁️ Cloud & DevOps focused
-* 🐧 Linux & system administration
-* 🐳 Docker & Kubernetes
-* 🔄 CI/CD & automation
-* 🏗️ Infrastructure as Code
-* 📊 Monitoring & observability
-* 🐍 Practical Python & Bash automation
-* 🎯 Currently preparing for Cloud / DevOps opportunities
-
----
-
-# 🛠️ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=aws,linux,bash,python,git,github,githubactions,docker,kubernetes,jenkins,terraform,ansible,helm,argocd,prometheus,grafana,mysql,vscode,postman" />
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=aws,linux,bash,python,git,github,docker,kubernetes,jenkins,terraform,ansible,prometheus,grafana" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-**Cloud**
-`AWS` `EC2` `VPC` `IAM` `S3` `RDS` `DynamoDB` `Lambda` `ALB` `ASG` `Route 53` `ECR`
-
-**DevOps**
-`Git` `GitHub` `GitHub Actions` `Jenkins` `Docker` `Kubernetes` `Terraform` `Ansible`
-
-**Linux & Automation**
-`Linux` `RHEL` `Bash` `Shell Scripting` `Python`
-
-**Monitoring**
-`Prometheus` `Grafana` `CloudWatch`
-
-</div>
-
----
-
-# 🌱 Currently Learning
-
-<div align="center">
-
-`Kubernetes`  •  `Terraform`  •  `Jenkins Pipelines`  •  `GitHub Actions`
-
-`AWS`  •  `Python Automation`  •  `GitOps`  •  `Argo CD`
-
-</div>
-
----
-
-# 🎯 Current Focus
-
-<div align="center">
-
-### ☁️ Cloud → 🐳 Containers → 🔄 CI/CD → ☸️ Kubernetes → 🏗️ IaC → 📊 Observability
-
-<br>
-
-**Learn → Build → Automate → Deploy → Improve**
-
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<a href="https://github.com/Nishant1707-ai">
-
-<img src="https://streak-stats.demolab.com?user=Nishant1707-ai&theme=github-dark-blue&hide_border=true&border_radius=10" width="500" alt="Nishant Gomkale GitHub Streak"/>
-
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
 
+<br/>
+
+<h3 align="center">🚀 Deploying infrastructure, breaking pipelines (on purpose), and fixing them faster</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C9FF&center=true&vCenter=true&width=650&lines=DevOps+Engineer+%7C+Cloud+%26+Automation;CI%2FCD+%E2%80%A2+Docker+%E2%80%A2+Kubernetes+%E2%80%A2+Terraform;Building+resilient%2C+scalable+systems;Infrastructure+as+Code+%3D+Peace+of+Mind" alt="Typing SVG" />
+</p>
+
 ---
 
-# 📈 GitHub Activity
+### 👋 About Me
+
+```yaml
+name: Nishant Gomkale
+role: DevOps Engineer
+focus:
+  - CI/CD Pipeline Design & Automation
+  - Containerization & Orchestration
+  - Cloud Infrastructure (IaC)
+  - Monitoring & Reliability
+currently_exploring:
+  - GitOps workflows
+  - Kubernetes security & scaling
+fun_fact: "I automate things so I have more time to automate other things"
+```
+
+- 🔭 Currently working on strengthening CI/CD pipelines and cloud-native deployments
+- 🌱 Deepening my hands-on skills in **Kubernetes**, **Terraform**, and **AWS**
+- 🤝 Open to collaborating on DevOps tooling, automation scripts, and infra projects
+- 💬 Ask me about Docker, CI/CD, Linux, or cloud infrastructure
+- 📫 Reach me at **nishantgomkale85@gmail.com**
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,aws,terraform,jenkins,ansible,git,github,githubactions,bash,python,prometheus,grafana,nginx,azure" />
+</p>
 
 <div align="center">
 
-<a href="https://github.com/Nishant1707-ai">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nishant1707-ai&theme=github-compact&hide_border=true&radius=10" width="850" alt="Nishant Gomkale GitHub Activity Graph"/>
-
-</a>
+| Category | Tools |
+|---|---|
+| ☁️ **Cloud** | AWS · Azure |
+| 📦 **Containers & Orchestration** | Docker · Kubernetes |
+| 🔁 **CI/CD** | Jenkins · GitHub Actions |
+| 🧱 **Infrastructure as Code** | Terraform · Ansible |
+| 📊 **Monitoring** | Prometheus · Grafana |
+| 🐧 **OS & Scripting** | Linux · Bash · Python |
+| 🔧 **Version Control** | Git · GitHub |
+| 🌐 **Web Server** | Nginx |
 
 </div>
 
 ---
 
-# 📊 GitHub Statistics
+### 📊 GitHub Analytics
 
 <div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Nishant1707-ai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishant1707-ai&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
 
-<a href="https://github.com/Nishant1707-ai">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Nishant1707-ai&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark&rank_icon=github" alt="Nishant's GitHub Statistics"/>
-</a>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nishant1707-ai&theme=tokyonight&hide_border=true" />
+</div>
 
-<a href="https://github.com/Nishant1707-ai">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishant1707-ai&layout=compact&langs_count=8&hide_border=true&theme=github_dark" alt="Nishant's Top Languages"/>
-</a>
-
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nishant1707-ai&theme=react-dark&hide_border=true&area=true" width="100%"/>
 </div>
 
 ---
 
-# 🌐 Connect With Me
+### 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Nishant1707-ai&theme=tokyonight&no-frame=true&row=1&column=6" />
+</div>
+
+---
+
+### 🤝 Let's Connect
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/nishant-gomkale-299326334">
-<img src="https://img.shields.io/badge/LinkedIn-Nishant%20Gomkale-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-<a href="mailto:nishantgomkale85@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-nishantgomkale85%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/-Nishant%20Gomkale-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nishant-gomkale-299326334/)
+[![Gmail](https://img.shields.io/badge/-nishantgomkale85%40gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:nishantgomkale85@gmail.com)
 
 </div>
 
-<br>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c9ff,50:2c5364,100:0f2027&height=120&section=footer" width="100%"/>
 
 <div align="center">
-
-### 🚀 Build. Automate. Deploy. Repeat.
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=gradient"/>
-
+  <i>⭐️ Thanks for stopping by — feel free to explore my repos and reach out!</i>
 </div>
