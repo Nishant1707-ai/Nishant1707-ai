@@ -79,12 +79,6 @@
 <a href="https://www.ansible.com/">
 <img src="https://skillicons.dev/icons?i=ansible" width="55" title="Ansible"/>
 </a>
-<a href="https://helm.sh/">
-<img src="https://skillicons.dev/icons?i=helm" width="55" title="Helm"/>
-</a>
-<a href="https://argo-cd.readthedocs.io/">
-<img src="https://skillicons.dev/icons?i=argocd" width="55" title="Argo CD"/>
-</a>
 
 <br><br>
 
@@ -112,7 +106,6 @@
 <br>
 
 <p align="center">
-<b>Click any technology icon to explore its official website.</b>
 </p>
 
 ---
