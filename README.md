@@ -33,9 +33,25 @@
 ---
 
 ### 🧠 The Stack I Vibe With
+<sub>(click any logo to check out the tool)</sub>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,aws,azure,terraform,jenkins,ansible,git,github,githubactions,bash,python,prometheus,grafana,nginx&theme=dark" />
+<a href="https://www.linux.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux&theme=dark" width="48" title="Linux" /></a>&nbsp;
+<a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker&theme=dark" width="48" title="Docker" /></a>&nbsp;
+<a href="https://kubernetes.io/" target="_blank"><img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" width="48" title="Kubernetes" /></a>&nbsp;
+<a href="https://aws.amazon.com/" target="_blank"><img src="https://skillicons.dev/icons?i=aws&theme=dark" width="48" title="AWS" /></a>&nbsp;
+<a href="https://azure.microsoft.com/" target="_blank"><img src="https://skillicons.dev/icons?i=azure&theme=dark" width="48" title="Azure" /></a>&nbsp;
+<a href="https://www.terraform.io/" target="_blank"><img src="https://skillicons.dev/icons?i=terraform&theme=dark" width="48" title="Terraform" /></a>&nbsp;
+<a href="https://www.jenkins.io/" target="_blank"><img src="https://skillicons.dev/icons?i=jenkins&theme=dark" width="48" title="Jenkins" /></a>&nbsp;
+<a href="https://www.ansible.com/" target="_blank"><img src="https://skillicons.dev/icons?i=ansible&theme=dark" width="48" title="Ansible" /></a>&nbsp;
+<a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" title="Git" /></a>&nbsp;
+<a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" title="GitHub" /></a>&nbsp;
+<a href="https://github.com/features/actions" target="_blank"><img src="https://skillicons.dev/icons?i=githubactions&theme=dark" width="48" title="GitHub Actions" /></a>&nbsp;
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://skillicons.dev/icons?i=bash&theme=dark" width="48" title="Bash" /></a>&nbsp;
+<a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python&theme=dark" width="48" title="Python" /></a>&nbsp;
+<a href="https://prometheus.io/" target="_blank"><img src="https://skillicons.dev/icons?i=prometheus&theme=dark" width="48" title="Prometheus" /></a>&nbsp;
+<a href="https://grafana.com/" target="_blank"><img src="https://skillicons.dev/icons?i=grafana&theme=dark" width="48" title="Grafana" /></a>&nbsp;
+<a href="https://nginx.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nginx&theme=dark" width="48" title="Nginx" /></a>
 </p>
 
 <div align="center">
