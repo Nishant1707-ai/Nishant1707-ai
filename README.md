@@ -39,7 +39,6 @@
 <div align="center">
 
 ### ☁️ Cloud & Infrastructure
-
 <a href="https://aws.amazon.com/">
 <img src="https://skillicons.dev/icons?i=aws" width="60" title="AWS"/>
 </a>
@@ -49,28 +48,18 @@
 <a href="https://www.ansible.com/">
 <img src="https://skillicons.dev/icons?i=ansible" width="60" title="Ansible"/>
 </a>
-
 <br><br>
 
 ### 📦 Containers & Orchestration
-
 <a href="https://www.docker.com/">
 <img src="https://skillicons.dev/icons?i=docker" width="60" title="Docker"/>
 </a>
 <a href="https://kubernetes.io/">
 <img src="https://skillicons.dev/icons?i=kubernetes" width="60" title="Kubernetes"/>
 </a>
-<a href="https://helm.sh/">
-<img src="https://skillicons.dev/icons?i=helm" width="60" title="Helm"/>
-</a>
-<a href="https://argo-cd.readthedocs.io/">
-<img src="https://skillicons.dev/icons?i=argocd" width="60" title="Argo CD"/>
-</a>
-
 <br><br>
 
 ### 🔄 CI/CD & Version Control
-
 <a href="https://git-scm.com/">
 <img src="https://skillicons.dev/icons?i=git" width="60" title="Git"/>
 </a>
@@ -83,22 +72,18 @@
 <a href="https://www.jenkins.io/">
 <img src="https://skillicons.dev/icons?i=jenkins" width="60" title="Jenkins"/>
 </a>
-
 <br><br>
 
 ### 📊 Monitoring & Observability
-
 <a href="https://prometheus.io/">
 <img src="https://skillicons.dev/icons?i=prometheus" width="60" title="Prometheus"/>
 </a>
 <a href="https://grafana.com/">
 <img src="https://skillicons.dev/icons?i=grafana" width="60" title="Grafana"/>
 </a>
-
 <br><br>
 
 ### 🐧 Operating Systems & Scripting
-
 <a href="https://www.linux.org/">
 <img src="https://skillicons.dev/icons?i=linux" width="60" title="Linux"/>
 </a>
@@ -111,11 +96,9 @@
 <a href="https://www.python.org/">
 <img src="https://skillicons.dev/icons?i=python" width="60" title="Python"/>
 </a>
-
 <br><br>
 
 ### 🗄️ Databases & Developer Tools
-
 <a href="https://www.mysql.com/">
 <img src="https://skillicons.dev/icons?i=mysql" width="60" title="MySQL"/>
 </a>
